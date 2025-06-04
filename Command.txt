@@ -4,11 +4,19 @@ cd /d/STUDY/'A 2025 Internship'/FrontEnd
 2nd Command:to check status
 git status 
 
-3rd Command:to stage all files
+3rd Command:to stage all files  // another command - git add .
 git add -A
 
 4th Command:to commit Changes
 git commit -m "message to display"
 
 5th Command:to Push the Changes to the Remote Repository
+git push origin main
+
+
+
+cd /d/STUDY/'A 2025 Internship'/FrontEnd
+git status
+git add -A
+git commit -m "message to display"
 git push origin main
